@@ -1,21 +1,11 @@
-### Hello! I'm Mateus Lohn
+# 👋 Hello There, I'm Mateus Rachadel Lohn.
 
-## About me
-I'm a student in systems development, and I'm passionate about technology, education and changing people's lives through programming.
+💻 Desenvolvedor de Software com foco em **Back-end**  
+🚀 Sempre buscando evoluir em arquitetura, boas práticas e performance
 
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lohn_1506)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusrachadelohn)
-
-## 📊 GitHub Stats
-
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusRachadelLohn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRachadelLohn&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=MateusRachadelLohn&theme=radical)
-
-
-### Technologies
-Currently, I work with the following technologies:
+## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,4 +18,23 @@ Currently, I work with the following technologies:
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 </div>
 
+---
 
+## 🌐 Conecte-se comigo
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lohn_1506)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusrachadelohn)
+
+---
+
+## 📊 GitHub Stats
+
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusrlohnn&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusrlohnn&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mateusrlohnn&theme=radical)
+
+---
+
+✨ *"Evolução constante é melhor que perfeição momentânea."*
