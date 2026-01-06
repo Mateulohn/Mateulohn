@@ -1,11 +1,11 @@
-# 👋 Hello There, I'm Mateus Rachadel Lohn.
+# 👋 Hello there, I'm Mateus Rachadel Lohn
 
-💻 Desenvolvedor de Software com foco em **Back-end**  
-🚀 Sempre buscando evoluir em arquitetura, boas práticas e performance
+💻 **Software Developer** focused on **Back-end Development**  
+🚀 Constantly improving in architecture, best practices, and performance
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -20,21 +20,11 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lohn_1506)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusrachadelohn)
 
 ---
 
-## 📊 GitHub Stats
-
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusrlohnn&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusrlohnn&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mateusrlohnn&theme=radical)
-
----
-
-✨ *"Evolução constante é melhor que perfeição momentânea."*
+*"Continuous improvement is better than momentary perfection."*
